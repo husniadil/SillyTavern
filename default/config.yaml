@@ -17,7 +17,7 @@ dnsPreferIPv6: false
 # - Use options like 'localhost', 'st.example.com'
 autorunHostname: "auto"
 # Server port
-port: 8000
+port: 10005
 # Overrides the port for autorun in browser.
 # - Use -1 to use the server port.
 # - Specify a port to override the default.

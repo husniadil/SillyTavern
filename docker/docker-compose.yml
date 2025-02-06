@@ -6,7 +6,7 @@ services:
     hostname: sillytavern
     image: ghcr.io/sillytavern/sillytavern:latest
     ports:
-      - "8000:8000"
+      - "10005:10005"
     volumes:
       - "./config:/home/node/app/config"
       - "./data:/home/node/app/data"

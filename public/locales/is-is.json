@@ -322,7 +322,7 @@
     "Custom model (optional)": "Sérsniðið módel (valkvæmt)",
     "vllm-project/vllm": "vllm-project/vllm (OpenAI API umbúðastilling)",
     "vLLM API key": "vLLM API lykill",
-    "Example: 127.0.0.1:8000": "Dæmi: http://127.0.0.1:8000",
+    "Example: 127.0.0.1:10005": "Dæmi: http://127.0.0.1:10005",
     "vLLM Model": "vLLM líkan",
     "PygmalionAI/aphrodite-engine": "PygmalionAI/aphrodite-engine (OpenAI forritunargrensl)",
     "Aphrodite API key": "Aphrodite API lykill",

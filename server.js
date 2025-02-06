@@ -123,7 +123,7 @@ if (process.versions && process.versions.node && process.versions.node.match(/20
     if (net.setDefaultAutoSelectFamily) net.setDefaultAutoSelectFamily(false);
 }
 
-const DEFAULT_PORT = 8000;
+const DEFAULT_PORT = 10005;
 const DEFAULT_AUTORUN = false;
 const DEFAULT_LISTEN = false;
 const DEFAULT_CORS_PROXY = false;

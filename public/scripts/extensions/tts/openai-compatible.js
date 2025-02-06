@@ -17,7 +17,7 @@ class OpenAICompatibleTtsProvider {
         model: 'tts-1',
         speed: 1,
         available_voices: ['alloy', 'echo', 'fable', 'onyx', 'nova', 'shimmer'],
-        provider_endpoint: 'http://127.0.0.1:8000/v1/audio/speech',
+        provider_endpoint: 'http://127.0.0.1:10005/v1/audio/speech',
     };
 
     get settingsHtml() {
